@@ -4,3 +4,7 @@ go mod init github.com/wallacemachado/estudos-graphql
 go get github.com/99designs/gqlgen
 
 go run github.com/99designs/gqlgen init
+
+## rodar
+
+go run ./server.go
